@@ -9,6 +9,7 @@ project: [Guessing the distribution of dataset ](https://www.kaggle.com/code/sha
 
 
 ## Week 4
+1. [Building Simple Linear regression Model](https://www.kaggle.com/shailx/simple-linear-regression-model/edit)
 
 
 ## Week 5
