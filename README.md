@@ -15,3 +15,11 @@ project: [Guessing the distribution of dataset ](https://www.kaggle.com/code/sha
 
 
 ## Week 6
+
+## Week 7
+
+
+## Weeek 8
+
+
+## Week 9
