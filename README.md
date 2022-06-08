@@ -1,5 +1,6 @@
 # x_Business_Analytics-diploma-iitm
-contains some of contents
+
+## YouTube playlist by IITM: [Business Analytics](https://www.youtube.com/watch?v=_0z2c-Awpt0&list=PLZ2ps__7DhBaLi6KQP_MHx_oGQHnqlTji)
 
 ## Week2
 project: [Guessing the distribution of dataset ](https://www.kaggle.com/code/shailx/guessing-the-distribution-of-dataset) 
