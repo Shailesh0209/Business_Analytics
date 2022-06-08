@@ -6,10 +6,10 @@ project: [Guessing the distribution of dataset ](https://www.kaggle.com/code/sha
 
 
 ## Week 3
-1. [Chi-Squared Test of Independence - implementation using python](https://www.kaggle.com/shailx/chi-squared-test-of-independence/edit)
+1. Week-3/Lec-4: [Chi-Squared Test of Independence - implementation using python](https://www.kaggle.com/shailx/chi-squared-test-of-independence/edit)
 
 ## Week 4
-1. Week-3/Lec-4: [Building Simple Linear regression Model](https://www.kaggle.com/shailx/simple-linear-regression-model/edit)
+1. Week-4/Lec-6: [Building Simple Linear regression Model](https://www.kaggle.com/shailx/simple-linear-regression-model/edit)
 
 
 ## Week 5
