@@ -19,7 +19,7 @@ project: [Guessing the distribution of dataset ](https://www.kaggle.com/code/sha
 ## Week 6
 
 ## Week 7
-
+1. Week-7/Lec-6: [Logistic Regression](https://www.kaggle.com/shailx/logistic-regression/edit)
 
 ## Weeek 8
 
